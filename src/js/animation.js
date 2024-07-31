@@ -99,7 +99,6 @@ export const mapAnim = gsap.timeline()
             //scrub: 1,
             //markers: 1,
             //pin: true,
-            markers: 1,
             toggleActions: "play reverse play reverse"
         }, 
         scale: 0,
